@@ -10,4 +10,4 @@ if [[ $mini = 0 ]]
 then
     echo "son les $hori en punt"
 fi
-echo "son les $hori i $mini"
+echo "son les $hori i $mini minuts"
